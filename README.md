@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Grobodedov
-- 👀 I’m tap on the buttons 24/7
+- 👋
+- 👀
